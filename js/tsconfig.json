@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "ESNext",
+		"sourceMap": false
+	},
+	"compileOnSave": true,
+	"exclude": [
+		"node_modules"
+	]
+}
